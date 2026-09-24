@@ -23,3 +23,5 @@ institutional ethical and data-protection requirements.
 ## Software
 
 R version 4.4.1.
+
+The R script also includes the procedures used to extract and export LightGBM feature-importance measures, including normalized Gain and Frequency weights.
